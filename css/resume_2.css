@@ -43,7 +43,7 @@
 .baseStyle .nameDiv h2{width:100%;text-align: left;font-weight: lighter;}
 .baseStyle .nameDiv.positonDiv{padding: 20px 40px;margin-top: -38px;}
 
-.baseStyle,.jm0203_j1{background:url(./j1_bg.png) repeat-y;}
+.baseStyle,.jm0203_j1{background:url(../j1_bg.png) repeat-y;}
 .jm0203_j1 .nameDiv h1{color:#254665;}
 .jm0203_j1 .nameDiv h2{color:#254665;}
 .jm0203_j1 .baseItem dl dt a{color:#254665;line-height:67px;height:67px;}
