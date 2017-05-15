@@ -43,7 +43,7 @@
 .baseStyle .nameDiv h2{width:100%;text-align: left;font-weight: lighter;}
 .baseStyle .nameDiv.positonDiv{padding: 20px 40px;margin-top: -38px;}
 
-.baseStyle,.jm0203_j1{background:url(../images/j1_bg.png) repeat-y;}
+.baseStyle,.jm0203_j1{background:url(./j1_bg.png) repeat-y;}
 .jm0203_j1 .nameDiv h1{color:#254665;}
 .jm0203_j1 .nameDiv h2{color:#254665;}
 .jm0203_j1 .baseItem dl dt a{color:#254665;line-height:67px;height:67px;}
@@ -139,7 +139,7 @@
 .jm0203_j7  .divLeft .positonDiv.on{background:#aa8460;}
 
 
-.jm0203_j8{background:url(../images/j8_bg.png) repeat-y;}
+.jm0203_j8{background:url(./j8_bg.png) repeat-y;}
 .jm0203_j8 .nameDiv h1{color:#76ba31;}
 .jm0203_j8 .nameDiv h2{color:#76ba31;}
 .jm0203_j8 .baseItem dl dt a{color:#76ba31;line-height:67px;height:67px;}
